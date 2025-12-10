@@ -1,0 +1,3 @@
+# Advent of Code 2025 - Rust Edition
+
+Let's see how far I get this year...
